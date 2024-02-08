@@ -1,0 +1,9 @@
+add(5, mul(3, sub(10, pow(6, 4))))
+
+/* Test Expressions */
+
+/*  add(sub(6,2),2)  */
+/*  add(2,sub(6,3))    */
+/* mul(div(2,2),div(2,2)) */
+/* mul(add(2,2),div(2,2)) */
+/* pow(1,pow(pow(1,2),1)) */

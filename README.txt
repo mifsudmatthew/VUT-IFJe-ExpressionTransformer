@@ -23,4 +23,4 @@ Implementation Details: The core program is made up of 4 files in python code:
 
                 (Program was implemented using standard python without any libraries)
                 
-Bugs: No known bugs
+Bugs: Some edge cases for bracketing not fully handled.

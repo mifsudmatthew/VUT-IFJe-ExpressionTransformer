@@ -1,4 +1,4 @@
-Author: Matthew Mifsud (user:xmifsum00, number:260535)
+Author: Matthew Mifsud
 
 How to run program: 1. Make sure you are in the directory containing Makefile and source files
                     2. Enter "make run" in terminal
